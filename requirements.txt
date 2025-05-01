@@ -1,0 +1,6 @@
+transformers
+gradio
+torchaudio
+soundfile
+accelerate
+git+https://github.com/facebookresearch/audiocraft#egg=audiocraft
